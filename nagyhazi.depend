@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1509619235 source:c:\users\140899\documents\nagyhazi\start.c
+	"start.h"
+	"rekord.h"
+
+1509616796 c:\users\140899\documents\nagyhazi\start.h
+
+1509619012 source:c:\users\140899\documents\nagyhazi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tipusok.h"
+	"econio.h"
+	"start.h"
+	<windows.h>
+
+1509615658 source:c:\users\140899\documents\nagyhazi\econio.c
+	"econio.h"
+
+1509615658 c:\users\140899\documents\nagyhazi\econio.h
+	<windows.h>
+
+1509616050 c:\users\140899\documents\nagyhazi\types.h
+
+1509616748 c:\users\140899\documents\nagyhazi\tipusok.h
+
+1509617516 c:\users\140899\documents\nagyhazi\rekord.h
+
+1509619280 source:c:\users\140899\documents\nagyhazi\rekord.c
+	"rekord.h"
+
